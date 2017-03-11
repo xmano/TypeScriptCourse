@@ -1,5 +1,5 @@
 export class AppComponent {
-  public string;
+  public string: any;
   constructor(){
     this.string = "TS is Awesome!";
   }  
